@@ -1,0 +1,2 @@
+# MFTM
+A program that takes in spreadsheet data from ICBC that details fatality types (Pedestrian, Car Driver, Car Passenger, Cyclist or Other) every year.                 produces a pie chart to calculate the highest average percentage of Motor Vehicle fatality type per year across 7 year time period to determine which method of transporation is the most dangerous. (Most Fatal Transportation Mode)
